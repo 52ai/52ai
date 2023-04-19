@@ -6,7 +6,3 @@
 - :man_technologist: _**Use computer programs to mine the beauty of the network.**_
 - :email: 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑚𝑒 𝑎𝑡 [@live](mailto:ieeflsyu@outlook.com).
 - :house: [𝑩𝒍𝒐𝒈](http://www.mryu.top/)
-
-<!-- Github Stats -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=52ai&show_icons=true)
